@@ -4,11 +4,11 @@ ShapeLang Editor is a simple graphical user interface (GUI) application for writ
 
 ## Features
 
-- Write and execute ShapeLang code.
-- Display console output.
-- Plot line graphs using Matplotlib.
-- Define custom aliases for commands.
-- Support for basic mathematical functions and operations.
+- Write and execute ShapeLang (Python adaptation) code;
+- Display console output;
+- Plot line graphs using Matplotlib;
+- Define custom aliases for commands;
+- Support for basic mathematical functions and operations;
 - Handle loops (`while`, `for`) and conditional statements (`if`, `else if`, `else`).
 
 ## Requirements
@@ -20,7 +20,7 @@ ShapeLang Editor is a simple graphical user interface (GUI) application for writ
 
 ## Installation
 
-1. Clone the repository or download the source code.
+1. Clone the repository or download the source code;
 2. Install the required dependencies using pip:
     ```sh
     pip install numpy matplotlib
@@ -32,8 +32,8 @@ ShapeLang Editor is a simple graphical user interface (GUI) application for writ
     ```sh
     python main.py
     ```
-2. Write your ShapeLang code in the text area.
-3. Click the "Esegui" button to execute the code.
+2. Write your ShapeLang code in the text area;
+3. Click the Execute button to execute the code;
 4. View the console output and any generated plots in the respective areas.
 
 ## Example ShapeLang Code
